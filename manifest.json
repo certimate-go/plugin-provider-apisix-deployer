@@ -1,0 +1,17 @@
+{
+  "access_provider_type": "apisix",
+  "binary": "apisix.exe",
+  "capability": "deploy",
+  "category": "apigw",
+  "display_name_key": "plugin.apisix.name",
+  "icon": "apisix.svg",
+  "max_core_version": "",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "apisix",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
